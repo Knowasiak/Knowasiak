@@ -1,5 +1,8 @@
 # Hi, I'm Aditya Gaurav 👋
 
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Knowasiak&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowasiak&layout=compact&theme=tokyonight)
+
 Three-time founder building from 0 to 1 with extreme agency. I build SaaS platforms, scale developer communities, and model business intelligence systems. 
 
 ---
