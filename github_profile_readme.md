@@ -1,60 +1,60 @@
 # Hi, I'm Aditya Gaurav 👋
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Knowasiak&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knowasiak&layout=compact&theme=tokyonight)
+Three-time founder building from 0 to 1 with extreme agency. I build SaaS platforms, scale developer networks, and model business intelligence systems.
 
-Three-time founder building from 0 to 1 with extreme agency. I build SaaS platforms, scale developer communities, and model business intelligence systems. 
+**🏆 26-time World Champion** | **🌏 12-time Asia Champion** | **🇮🇳 10-time National Awardee**
 
 ---
 
-## ⚡ High-Impact Metrics
+## ⚡ Global Impact & Scale
 
-| 📈 400K+ | 🎥 150M+ | 🏆 GDWC | 🎓 2.5K+ |
+| 👥 2,500+ | 📈 600K+ | 🎛️ 6M+ | 🏛️ 110+ |
 | :---: | :---: | :---: | :---: |
-| **Monthly Active Users** | **Organic Views Generated** | **Global Runner-Up** | **Mentees & Founders** |
+| **Mentees & Founders Globally** | **Monthly Unique Visitors (0 CAC)** | **Monthly Network Requests** | **VIP Invites & Keynotes** |
+
+- 🎓 **Global Mentorship footprint**: Personally mentored and guided over **2,500** computer science, BTech, and business students alongside startup founders globally as an invited guest keynote speaker.
+- 🏆 **METAMORPHOSIS Global Student Entrepreneur**: Awarded **1st Rank globally (18 Under 18)**.
+- 🎖️ **Bharat Atma Nirbhar Award**: Youngest recipient at **age 17** for social contribution and technological leadership.
+- 🌟 **CEO of the Year (2022, 2024, 2025)**: Recognized as the *Most Influential CEO* in social networking tech by CEO Monthly, APAC Insider, and Innovation in Business.
 
 ---
 
 ## 🚀 Key Ventures
 
-### 🔹 [Knowasiak](https://knowasiak.com) — *Founder & CEO*
+### 🔹 [Knowasiak](https://knowasiak.com) — *Founder & CEO* (Founded at Age 16)
 *The trust layer for 400M SMBs. Threat intelligence networks and automated compliance tools.*
-- **Scale**: Scaled to 400,000 monthly active users and 28M+ post views across 190 countries with **$0 CAC**.
-- **AI-Native Corpus**: Positioned as a premium training corpus for top LLMs (Apple Siri, Anthropic, OpenAI) with 240K+ pages indexed monthly by AI web crawlers.
-- **Agentic Velocity**: Accelerated engineering cycles by 10x leveraging AI agentic coding to automate ML deployments.
+- **Scale**: Scaled to **600,000+ monthly unique visitors** and **6 million requests** from 195 countries with **$0 CAC**.
+- **LLM Training Corpus**: Positioned as a premium training dataset for top LLMs (Apple Siri, Anthropic, OpenAI) with 240K+ pages indexed monthly by AI web crawlers.
+- **Engineering Multiplier**: Leveraged AI agentic coding (Claude Code, Gemini, Qwen) to scale engineering velocity by 10x.
 
-### 🔹 Cognac Games Development Corp — *Founder & Operations Lead*
-- Scaled venture to an **$800K valuation** within 12 months, winning 1st Runner-Up globally at the Game Development World Championship (GDWC).
-- Declined a $120K investor offer at age 18 to protect long-term equity, utilizing detailed dilution modeling.
-
-### 🔹 SkuixStudios — *Founder & Network Lead*
-- Bootstrapped an international artist collaboration team across 3 countries, generating $15,000 in bootstrapped revenue.
+### 🔹 Cognac Games / Metaverse — *Founder & Operations Lead*
+- Developed the world's first photoreal metaverse, securing **16+ global innovation awards**.
+- Scaled venture to an **$800K valuation** within 12 months, winning **1st Runner-Up globally** at the Game Development World Championship (GDWC).
+- Exercised high-stakes executive judgment at age 18 by declining a **$120K investor offer** to protect cap table equity.
 
 ---
 
-## 🎙️ Accolades & Speaking Engagements
+## 🎙️ Keynotes, Panels & Competition History
 
-I speak on AI, SaaS architecture, business analytics, and metaverses:
-- 🏛️ **UN Advisory Board**: Member focusing on the future of Metaverses.
-- 🎤 **Global Keynotes**: Invited speaker at **G20 summits**, **Mobile World Congress (MWC)**, and events hosted by ***The Economist***.
-- 🎓 **Global University Mentor**: Mentored over 2,500 bachelors and masters of science, BTech, and computer science students alongside startup founders during keynote invitations.
-- 🏆 **IIT Bombay Eureka**: Placed in the **Top 15 out of 15,000** startups in Asia's largest business model competition.
+- 🏛️ **United Nations**: Invited in 2023-24 by the **Head of Telecommunications at the UN** to advise on metaverses as the founder of Cognac Metaverse.
+- 💼 **International Guest VIP**: Invited Guest VIP at the **G20/B20 summits** and **Mobile World Congress (MWC)**.
+- 💡 **IIT Bombay Eureka (Multi-Time Finalist)**: Long history of competition success, placing in the **Top 15 out of 15,000** startups across multiple years and ventures in Asia's largest business model competition.
 
 ---
 
 ## 🔬 Research & Capstone Highlights
 
 ### 🛰️ NASA-Linked Satellite ML Predictor
-During my MS in Business Analytics, I led a 6-person team alongside an **ex-NASA engineer** to construct a machine learning model predicting local city heat and infrared distributions where satellite coverage was sparse. 
+During my MS in Business Analytics, I led a 6-person team alongside an **ex-NASA engineer** to construct a machine learning model predicting local city heat and infrared distributions where satellite coverage was sparse.
 - **Result**: Achieved **87% accuracy** and won the Hult Business Challenge.
 
 ---
 
 ## 🛠️ Tech Stack & Tooling
 
-- **AI & Analytics**: ML Model Training, Python, pandas, numpy, scikit-learn, Business Economics Modeling
-- **Full-Stack Development**: React, React 19, TypeScript, Vite, Node.js, SaaS Architecture, HTML5/CSS3
-- **Agentic Engineering**: Claude Code, GPT, Gemini API, Automated CI/CD, Cloudflare Edge Workers
+- **AI & Analytics**: Machine Learning, Python (pandas, numpy, scikit-learn), Business Analytics, Financial Modeling, dilution metrics
+- **Full-Stack Development**: React (React 19), TypeScript, Vite, Node.js, SaaS Architecture, HTML5/CSS3
+- **Agentic Engineering**: Claude Code, GPT, Gemini API, Automated CI/CD, Cloudflare Edge Network
 
 ---
 
